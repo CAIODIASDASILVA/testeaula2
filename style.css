@@ -1,0 +1,11 @@
+.fundo{
+    height: 100vh;
+    width: 100vw;
+    background: rgb(131,58,180);
+    background: linear-gradient(30deg, rgba(131,58,180,1) 1%, rgba(253,29,29,0.9136029411764706) 52%, rgba(252,176,69,1) 100%);
+}
+
+.teste{
+    display: flex;
+    justify-content: center;
+}
