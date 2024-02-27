@@ -8,7 +8,7 @@ function mudarcorfundo(){
     document.querySelector("#p1").style.color= "green"
 
 }
- Function alterartexto(){ textoform = 
+ function alterartexto(){ textoform = 
     document.querySelector("#textinput").value
     document.querySelector("#texto2").innerHTML = textoform
 
