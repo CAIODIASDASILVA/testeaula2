@@ -5,7 +5,7 @@ function mudarcortexto(){
 }
 
 function mudarcorfundo(){
-    document.querySelector("#p1").style.color= "green"
+    document.querySelector("#p1").style.backgroundcolor= "green"
 
 }
  function alterartexto(){ textoform = 
