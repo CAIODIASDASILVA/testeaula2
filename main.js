@@ -1,6 +1,6 @@
 function mudarcortexto(){
-    alert("ola mundo")
-    console.log(document.querySelector("#p1"))
+ 
+   document.querySelector("#p1").style.color= "grenn"
 
 
 
