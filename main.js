@@ -1,4 +1,4 @@
-function mudarcortexto(){
+function mudarcortexto(){ 
  
    document.querySelector("#p1").style.color= "green"
 
